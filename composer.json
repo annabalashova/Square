@@ -2,6 +2,7 @@
     "name": "annabalashova/square",
     "description": "test",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Anna Balashova",
