@@ -1,0 +1,17 @@
+{
+    "name": "annabalashova/square",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anna Balashova",
+            "email": "balashovaa508@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Square\\": "src"
+        }
+    }
+   }
